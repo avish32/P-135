@@ -1,0 +1,23 @@
+.heading{
+    font-size:  23px;
+    width: 100%;
+    margin: 0px;   
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+
+input[type="text"] {
+    width: 200px;
+}
+.object_searcher{
+    width:200px;
+}
+body{
+    background-size:cover;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
